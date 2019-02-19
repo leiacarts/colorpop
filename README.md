@@ -19,10 +19,9 @@ To use HTML and CSS to achieve a web design layout that highlights a single prod
 
 ## Features
 
-* HTML
-* CSS
 * Responsive layout
 * Grid formatting
+* Animation on hover
 
 ## Installation
 
